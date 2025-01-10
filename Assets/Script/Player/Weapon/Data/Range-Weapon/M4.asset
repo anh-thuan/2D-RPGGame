@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053df6275d583ab4d9fc743b73aedd1c, type: 3}
+  m_Name: M4
+  m_EditorClassIdentifier: 
+  weaponSprite: {fileID: 21300000, guid: 3783143a434cb514081e6fa4c71b9016, type: 3}
+  weaponType: 1
+  gunType: 5
+  mode: 2
+  canSwitch: 1
+  weaponName: M4
+  damage: 40
+  rateOfFire: 12
+  reloadSpeed: 3
+  bulletSpeed: 60
+  bulletPerShot: 1
+  bulletDistance: 60
+  knockBack: 7
+  accuracy: 2
+  ammoType: 5
+  currentAmmo: 30
+  ammoCapacity: 30
+  totalAmmo: 87
+  defaultTotalAmmo: 90
+  meleeDamage: 0
+  meleeType: 0
+  attackSpeed: 0
+  blockChance: 0
+  criticalChance: 0
+  currentDurability: 0
+  totalDurability: 0
+  meleeSkill: 0

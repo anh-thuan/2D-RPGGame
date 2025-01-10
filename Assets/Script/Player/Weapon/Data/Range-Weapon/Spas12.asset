@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053df6275d583ab4d9fc743b73aedd1c, type: 3}
+  m_Name: Spas12
+  m_EditorClassIdentifier: 
+  weaponSprite: {fileID: 682154501, guid: 23bd6ad1884a5b242b879c51d1c801ad, type: 3}
+  weaponType: 1
+  gunType: 3
+  mode: 1
+  canSwitch: 0
+  weaponName: Spas12
+  damage: 20
+  rateOfFire: 5
+  reloadSpeed: 1
+  bulletSpeed: 35
+  bulletPerShot: 10
+  bulletDistance: 20
+  knockBack: 30
+  accuracy: 12
+  ammoType: 3
+  currentAmmo: 8
+  ammoCapacity: 8
+  totalAmmo: 30
+  defaultTotalAmmo: 32
+  meleeDamage: 0
+  meleeType: 0
+  attackSpeed: 0
+  blockChance: 0
+  criticalChance: 0
+  currentDurability: 0
+  totalDurability: 0
+  meleeSkill: 0
